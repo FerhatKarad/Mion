@@ -15,6 +15,7 @@ function App() {
             <Route exact path="/datenschutz" component={Datenschutz} />
             <Redirect from="*" to="/" />
         </Switch>
+        
     );
 }
 
