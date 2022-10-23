@@ -58,9 +58,6 @@ export default function DefaultFooter() {
                                 </p>
                                 
                             </div>
-                            <LeadText color="blueGray">
-                                    Bis Bald!
-                                </LeadText>
                         </div>
                         <div className="w-full lg:w-6/12 px-4">
                             <div className="flex flex-wrap items-top">
